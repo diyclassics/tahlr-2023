@@ -1,1 +1,2 @@
+python install-tess.py
 python install-nltk.py
